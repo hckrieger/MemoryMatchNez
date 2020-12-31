@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tz7/bPhQcyqo5Rwj3A6gf1z10nq5/qjeEdND6J5wzMwFK0t5mcBD3/CxL6HS2QD5BdIzJrKE6g6Gdx7K/r5Abw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hunte\\source\\repos\\MemoryMatch\\MemoryMatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hunte\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\hunte\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

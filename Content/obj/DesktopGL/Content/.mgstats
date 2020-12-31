@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/hunte/source/repos/MemoryMatch/Content/card.png","C:/Users/hunte/source/repos/MemoryMatch/Content/bin/DesktopGL/Content/card.xnb","TextureProcessor","Texture2DContent",160,10885,1.3711373
+"C:/Users/hunte/source/repos/MemoryMatch/Content/message.spritefont","C:/Users/hunte/source/repos/MemoryMatch/Content/bin/DesktopGL/Content/message.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.5186194
+"C:/Users/hunte/source/repos/MemoryMatch/Content/selector.png","C:/Users/hunte/source/repos/MemoryMatch/Content/bin/DesktopGL/Content/selector.xnb","TextureProcessor","Texture2DContent",185,10885,0.7785411
+"C:/Users/hunte/source/repos/MemoryMatch/Content/title.spritefont","C:/Users/hunte/source/repos/MemoryMatch/Content/bin/DesktopGL/Content/title.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70690,0.5670695
