@@ -28,6 +28,6 @@
     <PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.0.1641" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Downloads\Nez-master\Nez-master\Nez.Portable\Nez.csproj" />
+    <ProjectReference Include="bin\Debug\netcoreapp3.1\Nez-master\Nez.Portable\Nez.csproj" />
   </ItemGroup>
 </Project>

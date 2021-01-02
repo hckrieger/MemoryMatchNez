@@ -4,14 +4,14 @@
     "C:\\Users\\hunte\\source\\repos\\MemoryMatch\\MemoryMatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hunte\\Downloads\\Nez-master\\Nez-master\\Nez.Portable\\Nez.csproj": {
+    "C:\\Users\\hunte\\source\\repos\\MemoryMatch\\bin\\Debug\\netcoreapp3.1\\Nez-master\\Nez.Portable\\Nez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hunte\\Downloads\\Nez-master\\Nez-master\\Nez.Portable\\Nez.csproj",
+        "projectUniqueName": "C:\\Users\\hunte\\source\\repos\\MemoryMatch\\bin\\Debug\\netcoreapp3.1\\Nez-master\\Nez.Portable\\Nez.csproj",
         "projectName": "Nez",
-        "projectPath": "C:\\Users\\hunte\\Downloads\\Nez-master\\Nez-master\\Nez.Portable\\Nez.csproj",
+        "projectPath": "C:\\Users\\hunte\\source\\repos\\MemoryMatch\\bin\\Debug\\netcoreapp3.1\\Nez-master\\Nez.Portable\\Nez.csproj",
         "packagesPath": "C:\\Users\\hunte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hunte\\Downloads\\Nez-master\\Nez-master\\Nez.Portable\\obj\\Nez\\",
+        "outputPath": "C:\\Users\\hunte\\source\\repos\\MemoryMatch\\bin\\Debug\\netcoreapp3.1\\Nez-master\\Nez.Portable\\obj\\Nez\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -84,8 +84,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hunte\\Downloads\\Nez-master\\Nez-master\\Nez.Portable\\Nez.csproj": {
-                "projectPath": "C:\\Users\\hunte\\Downloads\\Nez-master\\Nez-master\\Nez.Portable\\Nez.csproj"
+              "C:\\Users\\hunte\\source\\repos\\MemoryMatch\\bin\\Debug\\netcoreapp3.1\\Nez-master\\Nez.Portable\\Nez.csproj": {
+                "projectPath": "C:\\Users\\hunte\\source\\repos\\MemoryMatch\\bin\\Debug\\netcoreapp3.1\\Nez-master\\Nez.Portable\\Nez.csproj"
               }
             }
           }

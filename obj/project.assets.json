@@ -178,8 +178,8 @@
     },
     "Nez/1.0.0": {
       "type": "project",
-      "path": "../../../Downloads/Nez-master/Nez-master/Nez.Portable/Nez.csproj",
-      "msbuildProject": "../../../Downloads/Nez-master/Nez-master/Nez.Portable/Nez.csproj"
+      "path": "bin/Debug/netcoreapp3.1/Nez-master/Nez.Portable/Nez.csproj",
+      "msbuildProject": "bin/Debug/netcoreapp3.1/Nez-master/Nez.Portable/Nez.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -220,8 +220,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\hunte\\Downloads\\Nez-master\\Nez-master\\Nez.Portable\\Nez.csproj": {
-              "projectPath": "C:\\Users\\hunte\\Downloads\\Nez-master\\Nez-master\\Nez.Portable\\Nez.csproj"
+            "C:\\Users\\hunte\\source\\repos\\MemoryMatch\\bin\\Debug\\netcoreapp3.1\\Nez-master\\Nez.Portable\\Nez.csproj": {
+              "projectPath": "C:\\Users\\hunte\\source\\repos\\MemoryMatch\\bin\\Debug\\netcoreapp3.1\\Nez-master\\Nez.Portable\\Nez.csproj"
             }
           }
         }
