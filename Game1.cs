@@ -11,6 +11,7 @@ namespace MemoryMatch
         public Game1()
         {
             Screen.IsFullscreen = true;
+            IsMouseVisible = false;
         }
 
        
